@@ -1,0 +1,2 @@
+git config --global user.name liyuping1028
+git config --global user.email kitty421354@gmail.com
